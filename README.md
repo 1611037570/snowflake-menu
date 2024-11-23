@@ -58,4 +58,4 @@ pnpm run dev
 
 ## 源码
 
-<https://github.com/1611037570/snowflow-menu>
+<https://github.com/1611037570/snowflake-menu>
